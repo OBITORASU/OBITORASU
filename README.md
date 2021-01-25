@@ -5,8 +5,8 @@
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning: Python, Shell scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
-- 📫 How to reach me: [email me](suprememightyzeus@gmail.com)
-- 😄 Pronouns: He/Him 
+- 📫 How to reach me: [Email me.](suprememightyzeus@gmail.com)
+- 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: Btw I use Arch.
 
 
