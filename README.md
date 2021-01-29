@@ -1,4 +1,4 @@
-### Hi there friend. OBITORASU here! 😀
+### Hello friend. OBITORASU here! 😀
 
 
 
