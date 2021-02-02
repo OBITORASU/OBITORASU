@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a student.
+- 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](obitogod@protonmail.com)
