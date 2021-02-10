@@ -29,4 +29,4 @@
 
 ![OBITORASU's github stats](https://github-readme-stats.vercel.app/api?username=OBITORASU&show_icons=true&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBITORASU&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OBITORASU&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OBITORASU&theme=dracula)
