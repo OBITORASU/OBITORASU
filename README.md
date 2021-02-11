@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently preparing for OSCP.
-- 🌱 I’m currently learning: Python, Shell scripting, Linux and Penetration Testing.
+- 🌱 I’m currently learning: Python, Shell/Bash scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
 - 😄 Pronouns: He/Him. 
@@ -12,6 +12,7 @@
 ### 🐱‍💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge)
+![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=Shell&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge)
