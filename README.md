@@ -7,7 +7,7 @@
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
 - 😄 Pronouns: He/Him. 
-- ⚡ Fun fact: I love video games and Japanese music.
+- ⚡ Fun fact: I am a minimalist suffering from bloat.
 
 ### 🐱‍💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
