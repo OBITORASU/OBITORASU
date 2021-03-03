@@ -1,6 +1,4 @@
-### Hello friend. OBITORASU here! 😀
-
-
+# Hello friend. OBITORASU here! 😀
 
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell/Bash scripting, Linux and Penetration Testing.
