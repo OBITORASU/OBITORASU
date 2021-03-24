@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I am a minimalist suffering from bloat.
 
-### 🐱‍💻 Languages and Tools:
+### 🐱‍💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=Shell&logoColor=white&style=for-the-badge)
