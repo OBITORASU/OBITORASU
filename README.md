@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=blueviolet)
 # Hello friend. OBITORASU here! 😀
-
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell/Bash scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
