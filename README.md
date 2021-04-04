@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=lightgrey)
 # Hello friend. OBITORASU here! 😀
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell/Bash scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
 - 😄 Pronouns: He/Him. 
-- ⚡ Fun fact: I am a minimalist suffering from bloat.
+- ⚡ Fun fact: Dracula fanboy turned into based Nord enjoyer.
 
 ### 🐱‍💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
@@ -26,6 +26,6 @@
 
 ### 🏆 GitHub Stats: 
 
-![OBITORASU's github stats](https://github-readme-stats.vercel.app/api?username=OBITORASU&show_icons=true&include_all_commits=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBITORASU&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OBITORASU&theme=dracula)
+![OBITORASU's github stats](https://github-readme-stats.vercel.app/api?username=OBITORASU&show_icons=true&include_all_commits=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBITORASU&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OBITORASU&theme=nord)
