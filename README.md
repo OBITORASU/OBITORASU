@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=lightgrey)
 # Hello friend. OBITORASU here! 😀
-- 🔭 I’m currently preparing for OSCP.
+- 🔭 I’m currently preparing for OSCP and playing around with Gentoo.
 - 🌱 I’m currently learning: Python, Shell/Bash scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
