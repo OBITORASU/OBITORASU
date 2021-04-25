@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning: Python, Shell scripting, Linux and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
-- 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I am a Dracula fanboy turned into a based Nord enjoyer.
 
 ### 🐱‍💻 Technologies I use:
