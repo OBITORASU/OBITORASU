@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
 - 💬 Ask me about: Anything.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
-- ⚡ Fun fact: I am a Dracula fanboy turned into a Nord enjoyer.
+- ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer.
 
 ### 🐱‍💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
