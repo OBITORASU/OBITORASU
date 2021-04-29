@@ -2,7 +2,7 @@
 # Hello friend. OBITORASU here! 😀
 - 🔭 I’m currently preparing for OSCP and playing around with Gentoo.
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
-- 💬 Ask me about: Anything.
+- 💬 Ask me about: Linux and Network Security.
 - 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
 - ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer.
 
