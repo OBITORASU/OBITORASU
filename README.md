@@ -3,7 +3,7 @@
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
 - 💬 Ask me about: Linux and Network Security.
-- 📫 How to reach me: [email me.](mailto:obitogod@protonmail.com)
+- 📫 How to reach me: Email me [here](mailto:obitogod@protonmail.com) or [here](mailto:suprememightyzeus@gmail.com)
 - ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer.
 
 ### 🐱‍💻 Technologies I use:
