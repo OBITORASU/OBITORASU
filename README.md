@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
 - 💬 Ask me about: Linux and Network Security.
 - 📫 How to reach me: Email me on my [gmail](mailto:obitogod@protonmail.com) or [protonmail](mailto:suprememightyzeus@gmail.com).
-- ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer.
+- ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer. I also play FPS and MOBA games sometimes.
 
 ### 🐱‍💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
