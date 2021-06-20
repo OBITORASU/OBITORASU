@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=lightgrey)
 # Hello friend. OBITORASU here! 😀
-<img src="https://tryhackme-badges.s3.amazonaws.com/OBITORASU.png" alt="TryHackMe">
 
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
