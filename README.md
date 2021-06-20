@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=lightgrey)
 # Hello friend. OBITORASU here! 😀
+[![OBITORASU](https://www.hackthebox.eu/badge/image/338991)](https://app.hackthebox.eu/profile/338991)
 
 - 🔭 I’m currently preparing for OSCP.
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
