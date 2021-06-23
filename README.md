@@ -1,4 +1,5 @@
 ![Views](https://komarev.com/ghpvc/?username=OBITORASU&style=flat-square&color=lightgrey)
+
 # Hello friend. OBITORASU here! 😀
 [![OBITORASU](https://www.hackthebox.eu/badge/image/338991)](https://app.hackthebox.eu/profile/338991)
 
@@ -6,7 +7,7 @@
 - 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
 - 💬 Ask me about: Linux and Network Security.
 - 📫 How to reach me: Email me on my [gmail](mailto:obitogod@protonmail.com) or [protonmail](mailto:suprememightyzeus@gmail.com).
-- ⚡ Fun fact: I am a Dracula lover turned into a Nord enjoyer. I love collecting in-game cosmetics.
+- ⚡ Fun fact: I play a lot of Valorant and I love collecting in-game cosmetics.
 
 ### 🐱‍💻 Technologies I use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
