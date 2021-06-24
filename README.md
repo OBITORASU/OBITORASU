@@ -4,7 +4,7 @@
 [![OBITORASU](https://www.hackthebox.eu/badge/image/338991)](https://app.hackthebox.eu/profile/338991)
 
 - 🔭 I’m currently preparing for OSCP.
-- 🌱 I’m currently learning: Python, Shell scripting, Operating Systems and Penetration Testing.
+- 🌱 I’m currently learning: Python, Shell scripting, Operating Systems, End Point Security and Penetration Testing.
 - 💬 Ask me about: Linux and Network Security.
 - 📫 How to reach me: Email me on my [gmail](mailto:obitogod@protonmail.com) or [protonmail](mailto:suprememightyzeus@gmail.com).
 - ⚡ Fun fact: I play a lot of Valorant and I love collecting in-game cosmetics.
