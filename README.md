@@ -9,7 +9,7 @@
 - 📫 How to reach me: Email me on my [gmail](mailto:obitogod@protonmail.com) or [protonmail](mailto:suprememightyzeus@gmail.com).
 - ⚡ Fun fact: I play a lot of Valorant and I love collecting in-game cosmetics.
 
-### 🐱‍💻 Technologies I use:
+### 🐱‍💻 Technologies I use and interact with:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=Shell&logoColor=white&style=for-the-badge)
