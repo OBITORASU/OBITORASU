@@ -6,7 +6,7 @@
 - 🔭 I’m currently preparing for my OSCP.
 - 🌱 I’m learning: Python, Shell scripting, Operating Systems, End Point Security and Penetration Testing.
 - 💬 Ask me about: Linux, Network Security.
-- 📫 How to reach me: Email me on my [gmail](mailto:obitogod@protonmail.com) or [protonmail](mailto:suprememightyzeus@gmail.com).
+- 📫 How to reach me: Email me on my [gmail](mailto:suprememightyzeus@gmail.com) or [protonmail](mailto:obitogod@protonmail.com).
 - ⚡ Fun fact: I love to play Valorant and I am a massive J-Pop fan.
 
 ### 🐱‍💻 Technologies I use and interact with:
